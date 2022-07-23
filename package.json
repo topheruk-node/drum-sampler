@@ -1,5 +1,5 @@
 {
-    "name": "@topheruk/drum-sampler",
+    "name": "@hyphenode/drum-sampler",
     "private": true,
     "version": "0.0.0",
     "type": "module",
@@ -20,7 +20,7 @@
         "vite": "^2.9.9"
     },
     "dependencies": {
-        "@topheruk/audio": "file:audio",
+        "@hyphenode/audio": "file:audio",
         "zod": "^3.17.3"
     }
 }
